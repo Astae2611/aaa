@@ -311,7 +311,6 @@ function get_bot (i, adigram)
 <code>🚦حداکثر سوپرگروه ها: </code>
 🔹 <b>]] .. tostring(maxsg)..[[</b><code> سوپرگروه</code> 🔸
 <code>➖➖➖➖</code>
-🚀کانال ما : @TitanTeams
 😉سازنده : @Hadis_radmehr]]
 
                           return send(msg.chat_id_, 0, text)
